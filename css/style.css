@@ -63,8 +63,8 @@ h1 {
 }
 
 .sections {
-    margin-left: 100px;
-    margin-top: 70px;
+    margin-left: 95px;
+    margin-top: 30px;
 }
 
 .arrow {
@@ -73,9 +73,37 @@ h1 {
 
 h2 {
     display: inline-block;
-    vertical-align: 100%;
+    vertical-align: 70%;
+    font-size: 30px;
 }
 
-.notes {
-    font-size: 20px;
+p {
+    font-size: 22px;
+}
+
+.badge {
+    display: inline-block;
+    vertical-align: middle;
+    color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-left: 5px;
+    font-size: 12px;
+    background-color: #46acf1;
+}
+
+.note {
+    margin-top: 20px;
+}
+
+.purple {
+    background-color: #9c72e4;
+}
+
+.green {
+    background-color: #62bfa8;
+}
+
+.orange {
+    background-color: orange;
 }
