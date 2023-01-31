@@ -31,12 +31,13 @@ h1 {
 /*CSS main*/
 .container {
     width: 1250px;
-    height: 550px;
+    height: 680px;
     margin: auto;
     margin-top: 40px;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: #ffffff;
     padding-top: 40px;
+    margin-bottom: 20px;
 }
 
 .list_header {
@@ -106,4 +107,12 @@ p {
 
 .orange {
     background-color: orange;
+}
+
+.pink {
+    background-color: #d863a1;
+}
+
+.limon {
+    background-color: #b0c926;
 }
