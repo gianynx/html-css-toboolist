@@ -36,4 +36,22 @@ h1 {
     margin-top: 40px;
     border-radius: 5px;
     background-color: #ffffff;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+
+.input_add_task {
+    background-color: #46acf1;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: #ffffff;
+    border: none;
+}
+
+.input_add_section {
+    background-color: #ffffff;
+    padding: 12px 20px;
+    border-radius: 5px;
+    color: #d3d7db;
+    border-color: #d3d7db;
 }
